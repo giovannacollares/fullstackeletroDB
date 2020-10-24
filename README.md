@@ -5,4 +5,4 @@ Este é o banco de dados da Full Stack Eletro.
 
 
 
-<div align="center"> <img width="500px" src="/Imagens/logo2.svg"> <br>
+
